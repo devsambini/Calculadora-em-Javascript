@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+ background-color: rgb(176, 241, 250);
+}
+
+.container{
+  width: 250px;
+  height: 380px;
+  margin-top: 50px;
+  margin-left: 40%;
+  background-color: #686464;
+}
+
+.display{
+  width: 230px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  float: left;
+  background-color: rgb(199, 198, 198);
+}
+
+#button{
+  width: 54px;
+  height: 55px;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn{
+  margin-left: 10px;
+}
